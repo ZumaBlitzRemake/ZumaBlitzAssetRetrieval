@@ -1,8 +1,12 @@
 # Archival/Retrieval Timeline
 
 ## Dead Leads
-- `game.live.playzumablitz.com`: Crawlers blocked (`robots.txt`).
-- `ecl.labs.popcap.com`/`labs.popcap.com`: Crawlers blocked (`robots.txt`).
+- URLs that are now dead and had their crawlers blocked (`robots.txt`), disabling them
+  from archival by the Wayback Machine:
+  - `game.live.playzumablitz.com`
+  - `1-zb-ecl.labs.popcap.com`
+  - `ecl.labs.popcap.com`
+  - `labs.popcap.com`
 - [KongHack forum thread][kh]: kakhappy and haenawolf are inactive.
   Forum is still active though.
 
