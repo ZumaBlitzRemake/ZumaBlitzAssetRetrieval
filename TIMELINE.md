@@ -65,7 +65,7 @@ will have any of their socials privatized from this document.
           Yahoo: No response.
         </li>
         <li>
-          Gmail/Tumblr/Instagram: To be contacted.
+          Tumblr: Waiting for response
         </li>
       </ul>
     </td>
