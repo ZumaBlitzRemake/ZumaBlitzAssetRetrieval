@@ -91,6 +91,9 @@ will have any of their socials privatized from this document.
           <a href="http://www.senorartist.com/">Website</a>
         </li>
         <li>
+          <a href="https://www.artstation.com/misaelarmendariz">ArtStation</a>
+        </li>
+        <li>
           <a href="https://www.behance.net/misaelanim501a">Behance</a>
         </li>
         <li>
@@ -103,7 +106,8 @@ will have any of their socials privatized from this document.
     </td>
     <td>Worked on ZB boards</td>
     <td>
-      <i>To be contacted</i>
+      Attempted communication on ArtStation; waiting for response
+    </td>
   </tr>
   <tr>
     <td>Tara Brannigan</td>
