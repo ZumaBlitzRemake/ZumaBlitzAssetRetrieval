@@ -37,7 +37,10 @@ will have any of their socials privatized from this document.
     <td>-</td>
     <td>-</td>
     <td>Zuma Blitz blogger</td>
-    <td>Facebook and E-mail are unresponsive.</td>
+    <td>
+      Facebook and E-mail are unresponsive.
+      <a href="Lead%20Responses/brendan_glowsmessenger.png">Message sent by Glows Lythos</a>
+    </td>
   </tr>
   <tr>
     <td>Erin Middendorf</td>
