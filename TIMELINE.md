@@ -44,36 +44,12 @@ will have any of their socials privatized from this document.
   </tr>
   <tr>
     <td>Erin Middendorf</td>
-    <td>
-      <s><code>midderin@yahoo.com</code></s><br/>
-      <code>midderin@gmail.com</code>
-    </td>
-    <td>
-      <ul>
-        <li>
-          <a href="https://www.coroflot.com/emiddendorf/Game-Work">Portfolio</a>
-        </li>
-        <li>
-          <a href="https://www.instagram.com/p/CiJU6hjPu89/?hl=en">Instagram</a>
-        </li>
-        <li>
-          <a href="https://eripoo.tumblr.com/">Tumblr</a>
-        </li>
-      </ul>
-    </td>
+    <td>-</td>
+    <td>-</td>
     <td>Worked on ZB assets</td>
     <td>
-      <ul>
-        <li>
-          Yahoo: No response.
-        </li>
-        <li>
-          Tumblr: No response. Likely behind a non-mutual filter.
-        </li>
-        <li>
-          Gmail: Waiting for response.
-        </li>
-      </ul>
+      <a href="Lead%20Responses/erin.png"><b>E-mail response</b></a>
+      (Does not have the files; would be breaching NDA otherwise)
     </td>
   </tr>
   <tr>
