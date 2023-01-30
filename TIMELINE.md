@@ -65,7 +65,10 @@ will have any of their socials privatized from this document.
           Yahoo: No response.
         </li>
         <li>
-          Tumblr: Waiting for response
+          Tumblr: No response. Likely behind a non-mutual filter.
+        </li>
+        <li>
+          Gmail: Waiting for response.
         </li>
       </ul>
     </td>
