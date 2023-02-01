@@ -67,28 +67,13 @@ will have any of their socials privatized from this document.
     <td>
       <i>Unknown</i>
     </td>
-    <td>
-      <ul>
-        <li>
-          <a href="http://www.senorartist.com/">Website</a>
-        </li>
-        <li>
-          <a href="https://www.artstation.com/misaelarmendariz">ArtStation</a>
-        </li>
-        <li>
-          <a href="https://www.behance.net/misaelanim501a">Behance</a>
-        </li>
-        <li>
-          <a href="https://www.facebook.com/senorartist/">Facebook</a>
-        </li>
-        <li>
-          <a href="http://misaelarmendariz.blogspot.com/">Blogger</a>
-        </li>
-      </ul>
-    </td>
+    <td>-</td>
     <td>Worked on ZB boards</td>
     <td>
-      Attempted communication on ArtStation; waiting for response
+      ArtStation unresponsive; unknown if this is due to my empty profile
+      status on ArtStation. Someone else can try contacting him via his
+      site (http://www.senorartist.com) although it has first name, last
+      name and phone number as fields, which may be required.
     </td>
   </tr>
   <tr>
