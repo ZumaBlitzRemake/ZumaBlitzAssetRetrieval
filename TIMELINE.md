@@ -42,7 +42,7 @@ will have any of their socials privatized from this document.
         Facebook and E-mail are unresponsive.
         <a href="Lead%20Responses/brendan_glowsmessenger.png">Message sent by Glows Lythos</a>
       </s>
-      <br>
+      <br/>
       <br/>
       Another E-mail handled by him has been found and contacted.
       <br/>
