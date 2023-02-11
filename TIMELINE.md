@@ -38,9 +38,16 @@ will have any of their socials privatized from this document.
     <td>-</td>
     <td>Zuma Blitz blogger</td>
     <td>
-      Facebook and E-mail are unresponsive.
-      <a href="Lead%20Responses/brendan_glowsmessenger.png">Message sent by Glows Lythos</a>
-    </td>
+      <s>
+        Facebook and E-mail are unresponsive.
+        <a href="Lead%20Responses/brendan_glowsmessenger.png">Message sent by Glows Lythos</a>
+      </s>
+      <br/><br/>
+      Another E-mail handled by him has been found and contacted.
+      <br/>
+      <b><a href="Lead%20Responses/brendan_email.png">Reply to my E-mail.</a></b>
+      He has stated that he has assets that loads after the game launches (loading screen?).
+      A reply has been made and this document will be edited once the assets have been acquired.
   </tr>
   <tr>
     <td>Erin Middendorf</td>
