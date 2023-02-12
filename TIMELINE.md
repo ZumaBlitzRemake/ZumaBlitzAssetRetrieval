@@ -46,10 +46,17 @@ will have any of their socials privatized from this document.
       <br/>
       Another E-mail handled by him has been found and contacted.
       <br/>
+      <a href="Lead%20Responses/brendan_email.png">Reply to my E-mail.</a>
+      <br/>
+      <br/>
       <b>
-        <a href="Lead%20Responses/brendan_email.png">Reply to my E-mail.</a>
-        He has stated that he has assets that loads after the game launches (loading screen?).
-        A reply has been made and this document will be edited once the assets have been acquired.
+        ASSET POSSESSION CONFIRMED: Zuma Blitz Kroakatoa (Sept-Oct 2012) and
+        Pre-Kroakatoa assets have been secured.
+        <br/>
+        <a href="https://twitter.com/shambles_sm/status/1624588915461222400" style="font-size:16pt">UPDATE TWEET HERE</a>
+        <br/><br/>
+        The link is currently unavailable unless you ask me for it (I don't want to run the risk of
+        a DMCA).
       </b>
     </td>
   </tr>
